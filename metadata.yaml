@@ -1,0 +1,36 @@
+_repo: Paternidad_25320
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Pomés, Ramón
+    alias: Pomes, Ramon
+    gutenberg_agent_id: '31241'
+    url: http://www.gutenberg.org/2009/agents/31241
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Theuriet, André
+    aliases:
+    - Theuriet, Claude Adhémar André
+    - Theuriet, Andre
+    birthdate: 1833
+    deathdate: 1907
+    gutenberg_agent_id: '1340'
+    url: http://www.gutenberg.org/2009/agents/1340
+    wikipedia: http://en.wikipedia.org/wiki/Andr%C3%A9_Theuriet
+description: ''
+gutenberg_issued: '2008-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25320'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: Paternidad
+url: http://www.gutenberg.org/ebooks/25320
